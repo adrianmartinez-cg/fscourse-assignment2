@@ -7,7 +7,8 @@
 h1 {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    margin-bottom: 15px;
+    margin-top:40px;
+    margin-bottom: 50px;
    }
   
  p {
@@ -44,11 +45,11 @@ h1 {
    }
 
    #chicken.section-title {
-    background-color: #fa8f89;
+    background-color: #ffb8b8;
    }
 
    #sushi.section-title {
-    background-color: #fce55d;
+    background-color: #90f542;
    }
 
    p.section-text{
@@ -62,7 +63,7 @@ h1 {
     .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
       float: left;
       border: 1px solid black;
-      background-color: #707070;
+      background-color: #ffddcc;
       
     }
     .col-lg-1 {
@@ -109,7 +110,7 @@ h1 {
     .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
       float: left;
       border: 1px solid black;
-      background-color: #707070;
+      background-color: #ffddcc;
       
     }
     .col-md-1 {
@@ -156,7 +157,7 @@ h1 {
     .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
         float: left;
         border: 1px solid black;
-        background-color: #707070;
+        background-color: #ffddcc;
       }
       .col-sm-1 {
         width: 8.33%;
